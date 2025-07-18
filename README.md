@@ -3,6 +3,7 @@
 This is a Python-based ATM simulation program that allows users to perform basic banking operations such as checking balance, depositing money, withdrawing money, and printing transaction receipts.
 
 ✨ Features
+
 ✅ Card Insertion and Authentication
 Simulates inserting a card and entering a PIN to verify user identity.
 
